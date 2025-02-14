@@ -32,12 +32,8 @@ This project investigates how urban traffic noise affects human health using **w
 3. **Findings**  
    - Higher noise levels (70+ dB) **increase stress and heart rate**.  
    - **Real traffic noise** has a stronger impact than simulated noise.  
-   - **Threshold noise level: 60 dB**, beyond which significant health effects occur.  
-
-## 📊 Results & Visualization  
-![Sample Graph](https://via.placeholder.com/600x300)  
-*(Replace this with actual plots from your results folder.)*  
-
+   - **Threshold noise level: 60 dB**, beyond which significant health effects occur.
+   
 ## 🏙️ Real-World Applications  
 - Helps **city planners** design quieter urban spaces.  
 - Supports **government policies** on noise control.  
